@@ -1,0 +1,32 @@
+
+.submit{
+color: #fff;
+font-size:13px;
+background-color: #5B74A8;  
+border-color: #29447E #29447E #1A356E;
+border-style:solid;
+border-width:1px;
+cursor: pointer;
+display:inline-block;
+font-weight: bold;
+padding: 4px 6px 4px;
+text-align: center;
+text-decoration: none;
+margin:10px; 
+}
+	 
+
+
+input[type=file]{
+
+border:1px solid #003366;
+color:#CCCCCC;
+font-family:Arial, Helvetica, sans-serif;
+font-size:9px;
+margin:0px;
+padding:0px;
+text-decoration:none;
+
+width:100px;
+height:10px;
+}	

@@ -1,0 +1,91 @@
+
+.cajas 
+{
+font-family:Arial, Helvetica, sans-serif;
+font-size:12px;	
+background-color:#FFFFFF;
+width:150px;
+height:17px;
+margin-top:-6px;
+margin-bottom:-6px;
+margin-left:0px;
+border: 1px solid #000000;	
+}
+
+#form{
+margin:0px;
+padding:0px;
+}
+
+input[type=submit]{
+background: #0070A6;
+border:1px solid #003366;
+color:#fff;
+cursor:pointer;
+font-family:Arial, Helvetica, sans-serif;
+font-size:11px;
+font-weight:bold;
+margin:0px;
+padding:1px;
+text-decoration:none;
+text-shadow:0 1px 1px #333;
+width:100px;
+height:22px;
+}	
+
+input:focus{
+border-color:#004F9D;
+-moz-box-shadow:0 0 3px #0459b7;
+-webkit-box-shadow:0 0 3px #0459b7;
+outline:none;
+}
+
+	
+.cuerpo{
+height:500px;
+border:0px #C0C0C0 solid;
+padding:0px;
+margin:0px;
+margin-top:15px;
+}
+
+.cabeza{
+padding:0px;
+margin:0px;
+border:1px #000000 solid;
+background-color:#004A95;	
+height:75px;
+margin:-8px;	
+}
+
+#imagen{
+width:47px;
+height:44px;
+}
+
+.enlaces{
+text-decoration:none;  
+color:#D8D8D8; 
+font-family:Arial, Helvetica, sans-serif; 
+font-size:11px;
+}
+
+.titulo{
+font-family:Arial, Helvetica, sans-serif;
+color:#F5F5F5;
+font-size:15px;
+margin:0px;
+padding:0px;
+font-weight:bold;
+text-align:center;
+}
+
+
+.letra10{
+font-family:Arial, Helvetica, sans-serif;
+font-size:11px;
+color:#FFFFFF;
+margin:0px;
+padding:0px;
+}
+	

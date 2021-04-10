@@ -1,0 +1,53 @@
+/* CSS Document */
+
+
+     body{
+        font-family: "lucida grande",tahoma,verdana,arial,sans-serif;
+     }
+     label{
+        color: #808080;
+        font-size: 11px;
+        font-weight: bold;
+        line-height: 30px;
+		margin:2px;
+     }
+     .wrapper{
+        width: 605px;
+        margin-left: 5px;
+        margin-right: auto;
+		width: 450px;
+        min-height: 200px;
+        border: solid thin #B4BBCD;
+        margin-top: 10px;
+     }
+	 
+	 
+     .wra{
+        width:750px;  		
+	
+        margin:3px auto;
+		height:130px;
+		border:1px #DADADA solid;
+     }
+     #msg{
+        border: thin solid #B4BBCD !important;
+        padding: 5px;
+		
+     }
+     .submit{
+       color: #fff;
+       font-size:13px;
+       background-color: #5B74A8;   
+       border-color:#00356A;
+       border-style:solid;
+       border-width:1px;
+       cursor: pointer;
+       display:inline-block;
+       font-weight: bold;
+       padding: 4px 6px 4px;
+       text-align: center;
+       text-decoration: none;
+       margin:3px; 
+	   margin-left:20px;
+     }
+  

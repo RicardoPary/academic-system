@@ -9,7 +9,7 @@
 //$cn=mysql_connect("localhost","root","");
 //$bd=mysql_select_db("colegio",$cn);
 
-$cn=new PDO('mysql:host=localhost;dbname=colegio','root','');
+$cn=new PDO('mysql:host=localhost;dbname=sistema_academico','root','');
 //$cn=new PDO('mysql:host=mysql.hostinger.es;dbname=u794073518_riki','u794073518_riki','rikinhoesteban171190');
 /*if( $cn)
 {echo "<script>alert ('CONEXION EXITOSA');</script>";}
